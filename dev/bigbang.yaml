@@ -10,9 +10,9 @@ metadata:
   namespace: bigbang
 spec:
   interval: 1m
-  url: https://replace-with-your-git-repo.git
+  url: https://github.com/eldong/bigbang.git
   ref:
-    branch: replace-with-your-branch
+    branch: bbtest1
   secretRef:
     name: private-git
 ---
